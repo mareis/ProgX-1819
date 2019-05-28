@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64df27f0-ca5f-41af-951a-c59b6c9a5816" name="Default Changelist" comment="" />
+    <list default="true" id="64df27f0-ca5f-41af-951a-c59b6c9a5816" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/ProgX-1819.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ProgX-1819.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Undervisningsnotater/4.-Tester-og-løkker/4.2-Kontrollstrukturer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01_Undervisningsnotater/4.-Tester-og-løkker/4.2-Kontrollstrukturer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Undervisningsnotater/5.-Lister-og-plotting/5.1.3_Matplotlib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01_Undervisningsnotater/5.-Lister-og-plotting/5.1.3_Matplotlib.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Undervisningsnotater/6.-Tilfeldige-tall-og-spill/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01_Undervisningsnotater/6.-Tilfeldige-tall-og-spill/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Undervisningsnotater/8.-Differensiallikninger/.ipynb_checkpoints/04_Fritt_fall-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01_Undervisningsnotater/8.-Differensiallikninger/.ipynb_checkpoints/04_Fritt_fall-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Undervisningsnotater/8.-Differensiallikninger/03_Bil_opp_skråplan.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01_Undervisningsnotater/8.-Differensiallikninger/03_Bil_opp_skråplan.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Undervisningsnotater/8.-Differensiallikninger/04_Fritt_fall.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01_Undervisningsnotater/8.-Differensiallikninger/04_Fritt_fall.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Løsningsforslag/02_Innleveringer/.ipynb_checkpoints/Innlevering2_løsningsforslag-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03_Løsningsforslag/02_Innleveringer/.ipynb_checkpoints/Innlevering2_løsningsforslag-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_Løsningsforslag/02_Innleveringer/Innlevering2_løsningsforslag.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/03_Løsningsforslag/02_Innleveringer/Innlevering2_løsningsforslag.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +42,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01_Undervisningsnotater/1.-Programmering-i-samfunnet/1.1-Programmering.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01_Undervisningsnotater/4.-Tester-og-løkker/4.2-Kontrollstrukturer.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hei.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/01_Undervisningsnotater/5.-Lister-og-plotting/5.1.3_Matplotlib.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
     </leaf>
@@ -72,17 +90,16 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="231" />
-    <option name="y" value="134" />
-    <option name="width" value="1152" />
-    <option name="height" value="837" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,15 +107,32 @@
               <item name="ProgX-1819" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgX-1819" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ProgX-1819" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgX-1819" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgX-1819" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgX-1819" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
+              <item name="4.-Tester-og-løkker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgX-1819" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgX-1819" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Undervisningsnotater" type="462c0819:PsiDirectoryNode" />
+              <item name="5.-Lister-og-plotting" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -107,7 +141,7 @@
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="" />
     <property name="node.js.selected.package.standard" value="" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -301,16 +335,21 @@
       <workItem from="1552053830873" duration="347000" />
       <workItem from="1552495120800" duration="167000" />
       <workItem from="1552495325442" duration="297000" />
+      <workItem from="1553871902455" duration="623000" />
+      <workItem from="1554628354353" duration="163000" />
+      <workItem from="1554628755229" duration="608000" />
+      <workItem from="1554719615151" duration="174000" />
+      <workItem from="1554720228218" duration="738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18982000" />
+    <option name="totallyTimeSpent" value="21288000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="231" y="134" width="1152" height="837" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4993395" weight="0.16245487" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4993395" weight="0.16381419" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5006605" side_tool="true" weight="0.16245487" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -327,6 +366,7 @@
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5030562" side_tool="true" weight="0.14818548" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Pylint" order="13" sideWeight="0.49938875" weight="0.3296371" />
+      <window_info anchor="bottom" id="Jupyter" order="14" weight="0.20435685" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -339,20 +379,8 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01_Undervisningsnotater/1.-Programmering-i-samfunnet/1.2-Datamaskinens-historie.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Undervisningsnotater/6.-Tilfeldige-tall-og-spill/Untitled.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Undervisningsnotater/1.-Programmering-i-samfunnet/1.2-Datamaskinens-historie.ipynb" />
+    <entry file="file://$PROJECT_DIR$/01_Undervisningsnotater/6.-Tilfeldige-tall-og-spill/Untitled.ipynb" />
     <entry file="file://$PROJECT_DIR$/01_Undervisningsnotater/6.-Tilfeldige-tall-og-spill/a.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -367,20 +395,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_Undervisningsnotater/3.-Grunnleggende-programmering/3.2-Output-og-input.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Undervisningsnotater/3.-Grunnleggende-programmering/3.1-Installasjon-av-python.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Undervisningsnotater/3.-Grunnleggende-programmering/3.2-Output-og-input.ipynb" />
+    <entry file="file://$PROJECT_DIR$/01_Undervisningsnotater/3.-Grunnleggende-programmering/3.1-Installasjon-av-python.ipynb" />
     <entry file="file://$PROJECT_DIR$/01_Undervisningsnotater/6.-Tilfeldige-tall-og-spill/hei_verden.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -419,12 +435,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hei.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/hei.py" />
+    <entry file="file://$PROJECT_DIR$/01_Undervisningsnotater/1.-Programmering-i-samfunnet/1.1-Programmering.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Undervisningsnotater/4.-Tester-og-løkker/4.2-Kontrollstrukturer.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Undervisningsnotater/5.-Lister-og-plotting/5.1.3_Matplotlib.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
   <component name="masterDetails">
